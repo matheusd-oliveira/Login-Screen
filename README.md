@@ -1,2 +1,2 @@
-# Graphic Interface 2
+# Login Screen
  Graphic interface created with Tkinter and PAGE!
